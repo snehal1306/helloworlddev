@@ -2,6 +2,7 @@
   <div class="container">
 <h2> Everything will be alright. Trust the process. </h2>
 <h3> If person has positive mindset, he will get better day by day. Universe will aid to the process. </h3>
+<h4> YOU HAVE SUCCESSFULLY COMPLETED CI/CD. </h4> 
     <h1>New user Register for DevOps Learning</h1>
     <h1>welcome</h1>
     <p>Please fill in this form to create an account.</p>
